@@ -52,4 +52,13 @@ body {
   #save-btn {
     background: #660063;
   }
-  
+
+  #cat-btn {
+    background-color: rgb(1, 133, 78);
+  }
+  #increment-by-yourself-btn {
+    background-color: chocolate;
+  }
+  #stop-btn {
+    background-color: green;
+  }
